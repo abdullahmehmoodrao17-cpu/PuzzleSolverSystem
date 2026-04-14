@@ -1,0 +1,6 @@
+# No external dependencies required
+# Uses only Python standard library:
+# - tkinter (built-in)
+# - heapq (built-in)
+# - collections (built-in)
+# - time (built-in)
